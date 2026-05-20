@@ -20,7 +20,7 @@ Principal Engineer with **12+ years** building enterprise banking technology at 
 ## 🛠️ Tech Stack
 
 ```
-Backend      │ Java 17 · Spring Boot · Spring AI · Spring WebFlux · REST APIs · gRPC
+Backend      │ Java 21 · Spring Boot · Spring AI · Spring WebFlux · REST APIs · gRPC
 AI/Agents    │ MCP · OpenAI SDK · Anthropic SDK · LangChain · LangGraph · RAG · Spring AI
 Messaging    │ Apache Kafka · Event Sourcing · CQRS · Saga Pattern · Idempotency
 Data         │ PostgreSQL · Oracle DB · Redis · DB2
